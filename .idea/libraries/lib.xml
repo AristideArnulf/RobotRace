@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/lib/jogl-all.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/RobotRaceLibrary8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/gluegen-rt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/RobotRaceLibrary.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
